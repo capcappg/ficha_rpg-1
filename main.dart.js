@@ -66004,32 +66004,32 @@ a3=L.D("Vida",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,27,c1,c1,c1,c1,!0,c
 h=h==="R6ocfxQFVETwEBcuKNIHENamDs73"
 g=T.ap(H.b([a3,!h?T.ap(H.b([R.bR(!1,!0,M.a9(c1,L.bU(C.ev,C.b,c1,15),c1,c1,new S.aB(C.i,c1,c1,c1,c1,c1,C.t),c1,c1,c1,c1,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aae(s,i,c5),c1,c1,c1),T.Q(c1,c1,10),R.bR(!1,!0,M.a9(c1,L.bU(C.bF,C.b,c1,15),c1,c1,new S.aB(C.i,c1,c1,c1,c1,c1,C.t),c1,c1,c1,c1,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aaf(s,i,c5),c1,c1,c1)],a0),C.l,C.o,C.k):T.ZE(!1,c1,0)],a0),C.l,C.P,C.k)
 a2=T.Q(c1,10,c1)
-a3=t.az
 if(h){h=C.dn.h(0,900)
-h=T.Q(T.hW(C.b8,H.b([L.Y9(P.aC(100,100,0,0),L.D("??/"+H.c(q),c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1),C.u,100,new S.kO(h,a3)),U.eR(c4,C.ae,c1)],a0),C.dO),37.3,c1)}else{h=C.dn.h(0,900)
-h=T.Q(T.hW(C.b8,H.b([L.Y9(P.aC(100,100,0,0),L.D(H.c(r)+"/"+H.c(q)+" ",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1),C.u,r*100/q/100,new S.kO(h,a3)),U.eR(c4,C.ae,c1)],a0),C.dO),37.3,c1)}h=R.bR(!1,!0,h,c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aag(s,c6,i),c1,c1,c1)
-a8=T.Q(c1,10,c1)
-a9=c0.d>600
-b0=a9?C.u:C.v
-b1=a9?C.u:C.v
-b2=c0.e
-b3=t.IR
-b1=T.aiR(H.b([K.Sg(C.b,C.i,new V.e1(b2,b3),C.aa,new Y.aah(s,d,i),s.a),L.D("Inconsciente",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,23,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1)],a0),C.l,b1,c1,C.o,C.k,c1,c1,C.by)
-a9=a9?C.u:C.v
-b0=T.d2(T.aiR(H.b([b1,T.aiR(H.b([K.Sg(C.b,C.i,new V.e1(b2,b3),C.aa,new Y.aai(s,d,i),s.c),L.D("Morrendo",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,23,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1)],a0),C.l,a9,c1,C.cw,C.k,c1,c1,C.by)],a0),C.bT,b0,c1,C.b2,C.k,c1,c1,C.by),c1,c1)
-a9=T.Q(c1,20,c1)
-b1=T.ap(H.b([L.D("Sanidade",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,27,c1,c1,c1,c1,!0,c1,c1,c1,c1,H.b([new O.ed(0,C.dq,C.n,7)],a5),c1,c1),c1,c1),T.ap(H.b([R.bR(!1,!0,L.bU(C.ev,C.b,c1,15),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aaj(s,i,c5),c1,c1,c1),T.Q(c1,c1,10),R.bR(!1,!0,L.bU(C.bF,C.b,c1,15),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aak(s,i,c5),c1,c1,c1)],a0),C.l,C.o,C.k)],a0),C.l,C.P,C.k)
-b4=T.Q(c1,10,c1)
-b5=C.aM.h(0,800)
-b5=R.bR(!1,!0,T.Q(T.hW(C.b8,H.b([L.Y9(P.aC(100,0,0,100),L.D(H.c(p)+"/"+H.c(o)+" ",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1),C.u,p*100/o/100,new S.kO(b5,a3)),U.eR("https://cdn.discordapp.com/attachments/619720455049183293/943681241834737674/BARRA_AZUL.png",C.h4,c1)],a0),C.dO),37.3,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aal(s,c6,i),c1,c1,c1)
+h=T.Q(T.hW(C.b8,H.b([L.Y9(P.aC(100,100,0,0),L.D("??/"+H.c(q),c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1),C.u,100,new S.kO(h,t.az)),U.eR(c4,C.ae,c1)],a0),C.dO),37.3,c1)}else{h=C.dn.h(0,900)
+h=T.Q(T.hW(C.b8,H.b([L.Y9(P.aC(100,100,0,0),L.D(H.c(r)+"/"+H.c(q)+" ",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1),C.u,r*100/q/100,new S.kO(h,t.az)),U.eR(c4,C.ae,c1)],a0),C.dO),37.3,c1)
+h=R.bR(!1,!0,h,c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aag(s,c6,i),c1,c1,c1)}a3=T.Q(c1,10,c1)
+a8=c0.d>600
+a9=a8?C.u:C.v
+b0=a8?C.u:C.v
+b1=c0.e
+b2=t.IR
+b0=T.aiR(H.b([K.Sg(C.b,C.i,new V.e1(b1,b2),C.aa,new Y.aah(s,d,i),s.a),L.D("Inconsciente",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,23,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1)],a0),C.l,b0,c1,C.o,C.k,c1,c1,C.by)
+a8=a8?C.u:C.v
+a9=T.d2(T.aiR(H.b([b0,T.aiR(H.b([K.Sg(C.b,C.i,new V.e1(b1,b2),C.aa,new Y.aai(s,d,i),s.c),L.D("Morrendo",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,23,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1)],a0),C.l,a8,c1,C.cw,C.k,c1,c1,C.by)],a0),C.bT,a9,c1,C.b2,C.k,c1,c1,C.by),c1,c1)
+a8=T.Q(c1,20,c1)
+b0=T.ap(H.b([L.D("Sanidade",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,27,c1,c1,c1,c1,!0,c1,c1,c1,c1,H.b([new O.ed(0,C.dq,C.n,7)],a5),c1,c1),c1,c1),T.ap(H.b([R.bR(!1,!0,L.bU(C.ev,C.b,c1,15),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aaj(s,i,c5),c1,c1,c1),T.Q(c1,c1,10),R.bR(!1,!0,L.bU(C.bF,C.b,c1,15),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aak(s,i,c5),c1,c1,c1)],a0),C.l,C.o,C.k)],a0),C.l,C.P,C.k)
+b3=T.Q(c1,10,c1)
+b4=C.aM.h(0,800)
+b5=t.az
+b4=R.bR(!1,!0,T.Q(T.hW(C.b8,H.b([L.Y9(P.aC(100,0,0,100),L.D(H.c(p)+"/"+H.c(o)+" ",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1),C.u,p*100/o/100,new S.kO(b4,b5)),U.eR("https://cdn.discordapp.com/attachments/619720455049183293/943681241834737674/BARRA_AZUL.png",C.h4,c1)],a0),C.dO),37.3,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aal(s,c6,i),c1,c1,c1)
 b6=T.Q(c1,10,c1)
-b7=T.d2(T.ap(H.b([T.ap(H.b([K.Sg(C.b,C.i,new V.e1(b2,b3),C.aa,new Y.aa8(s,i),s.b),L.D("Insanidade",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,23,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1)],a0),C.l,C.o,C.k)],a0),C.l,C.cw,C.k),c1,c1)
+b7=T.d2(T.ap(H.b([T.ap(H.b([K.Sg(C.b,C.i,new V.e1(b1,b2),C.aa,new Y.aa8(s,i),s.b),L.D("Insanidade",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,23,c1,c1,c1,c1,!0,c1,c1,c1,c1,c1,c1,c1),c1,c1)],a0),C.l,C.o,C.k)],a0),C.l,C.cw,C.k),c1,c1)
 b8=T.Q(c1,20,c1)
 c5=T.ap(H.b([L.D("Barra Extra",c1,c1,c1,A.k(c1,c1,C.b,c1,c1,c1,c1,c1,c3,c1,c1,27,c1,c1,c1,c1,!0,c1,c1,c1,c1,H.b([new O.ed(0,C.b,C.n,7)],a5),c1,c1),c1,c1),T.ap(H.b([R.bR(!1,!0,M.a9(c1,L.bU(C.ev,C.b,c1,15),c1,c1,new S.aB(C.i,c1,c1,c1,c1,c1,C.t),c1,c1,c1,c1,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aa9(s,i,c5),c1,c1,c1),T.Q(c1,c1,10),R.bR(!1,!0,M.a9(c1,L.bU(C.bF,C.b,c1,15),c1,c1,new S.aB(C.i,c1,c1,c1,c1,c1,C.t),c1,c1,c1,c1,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aaa(s,i,c5),c1,c1,c1)],a0),C.l,C.o,C.k)],a0),C.l,C.P,C.k)
 b9=T.Q(c1,10,c1)
-c5=H.b([g,a2,h,a8,b0,a9,b1,b4,b5,b6,b7,b8,c5,b9,d.e===!0?R.bR(!1,!0,T.Q(T.hW(C.b8,H.b([L.Y9(new P.J(1124073471),L.D(H.c(n)+"/"+H.c(m)+" ",c1,c1,c1,A.k(c1,c1,C.i,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,H.b([new P.lE(C.i,C.n,2),new P.lE(C.i,C.n,5)],a5),c1,c1),c1,c1),C.u,n*100/m/100,new S.kO(C.b,a3)),U.eR("https://cdn.discordapp.com/attachments/619720455049183293/943673732168302662/BARRA_BRANCA.png",C.h4,c1)],a0),C.dO),37.3,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aab(s,c6,i),c1,c1,c1):T.Q(c1,c1,c1)],a0)
+c5=H.b([g,a2,h,a3,a9,a8,b0,b3,b4,b6,b7,b8,c5,b9,d.e===!0?R.bR(!1,!0,T.Q(T.hW(C.b8,H.b([L.Y9(new P.J(1124073471),L.D(H.c(n)+"/"+H.c(m)+" ",c1,c1,c1,A.k(c1,c1,C.i,c1,c1,c1,c1,c1,c3,c1,c1,35,c1,c1,c1,c1,!0,c1,c1,c1,c1,H.b([new P.lE(C.i,C.n,2),new P.lE(C.i,C.n,5)],a5),c1,c1),c1,c1),C.u,n*100/m/100,new S.kO(C.b,b5)),U.eR("https://cdn.discordapp.com/attachments/619720455049183293/943673732168302662/BARRA_BRANCA.png",C.h4,c1)],a0),C.dO),37.3,c1),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aab(s,c6,i),c1,c1,c1):T.Q(c1,c1,c1)],a0)
 if(d.e===!1)c5.push(Z.c3(C.b,1))
-c5.push(new T.at(C.pL,T.d2(K.Sg(C.b,C.i,new V.e1(b2,b3),C.aa,new Y.aac(d),d.e),c1,c1),c1))
+c5.push(new T.at(C.pL,T.d2(K.Sg(C.b,C.i,new V.e1(b1,b2),C.aa,new Y.aac(d),d.e),c1,c1),c1))
 c5.push(T.Q(c1,20,c1))
 return M.a9(c1,M.Hp(c,C.aa,Q.Ho(!0,D.eP(c1,E.x1(T.d2(E.qL(E.qL(new T.Ev(1,M.a9(c1,T.aq(H.b([a,a1,b,M.a9(c1,T.ap(H.b([new T.dU(2,C.aC,new U.wM(c1),c1),a7,new T.dU(2,C.aC,M.a9(c1,T.aq(H.b([new T.at(C.pS,a6,c1),a4,R.bR(!1,!0,T.aq(c5,C.bT,C.o,C.k),c1,!0,c1,c1,c1,c1,c1,c1,c1,c1,c1,c1,c1,c1,c1)],a0),C.l,C.o,C.k),c1,c1,c1,c1,c1,c1,c1,c1),c1)],a0),C.l,C.o,C.k),c1,c1,c1,c1,c1,c1,c1,1200),T.Q(c1,40,c1),M.a9(c1,T.ap(H.b([new T.dU(1,C.aC,new T.at(C.pJ,new N.tS(c1),c1),c1),new T.dU(1,C.aC,new T.at(C.pV,new V.um(c1),c1),c1)],a0),C.bT,C.P,C.k),c1,c1,c1,c1,c1,c1,c1,1200),T.Q(c1,40,c1),new Y.wE(c1),T.Q(c1,40,c1),new O.vy(c1),T.Q(c1,40,c1),new N.tN(c1),T.Q(c1,20,c1)],a0),C.l,C.o,C.k),c1,c1,c1,c1,c1,c1,c1,c1),c1),c1,C.v),c1,C.v),c1,c1),c1,C.aK,c1,!0,c1,G.me(),C.M,c1,3,C.jN,C.b9),C.ab,!1,c1,c1,c1,c1,c1,c1,c1,c1,c1,c1,c1,new Y.aad(c6),c1,c1,c1,c1,c1,c1),C.G,!0),!1),c1,c1,new S.aB(C.i,e,c1,c1,c1,c1,C.t),c1,c1,c1,c1,c1)}else{P.dc(c7.j(0))
 return new V.fV(c1)}},
